@@ -1,11 +1,8 @@
-[![MasterHead](https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif)]
+![MasterHead](https://camo.githubusercontent.com/56362def1bbc81d47e30e00d1f680d6698e05f1175c47957ef4a058ff3a840d5/68747470733a2f2f6c66736f6c7574696f6e732e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f31322f46756c6c2d537461636b2d446576656c6f706d656e742d46656174757265642d496d6167652d4c6576656c466976652d536f6c7574696f6e732e676966)
 <h1 align="center">Hi 👋, I'm Shivam Prakash</h1>
 <h3 align="center">A passionate FullStack MERN developer from India</h3>
 <img align="right" alt="Coding Image" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam12prakash&label=Profile%20views&color=0e75b6&style=flat" alt="shivam12prakash" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivam12prakash" alt="shivam12prakash" /></a> </p>
 
 - 🔭 I’m currently working on **e-Commerce MERN Application**
 

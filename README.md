@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **e-Commerce MERN Application**
 
-- 🌱 I’m currently learning **AWS, Typescript, Docker**
+- 🌱 I’m currently learning **AWS, GraphQL, Kubernetes**
 
 - 💬 Ask me about **Node.js, React.js, MERN**
 

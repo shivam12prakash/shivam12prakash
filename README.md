@@ -4,15 +4,15 @@
 <img align="right" alt="Coding Image" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 
-- 🔭 I’m currently working on **e-Commerce MERN Application**
+- 🔭 I’m currently working on **Ecommerce MERN Application with Microservices architecture**
 
-- 🌱 I’m currently learning **AWS, GraphQL, Kubernetes**
+- 🌱 I’m currently learning **Advanced AWS Services, GraphQL, Kubernetes**
 
-- 💬 Ask me about **Node.js, React.js, MERN**
+- 💬 Ask me about **Node.js, React.js, MERN Stack, AWS Core Services**
 
 - 📫 How to reach me **shivam12prakash@gmail.com**
 
-- ⚡ Fun fact **I think I am funny #maybe**
+- ⚡ Fun fact **I love upskilling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

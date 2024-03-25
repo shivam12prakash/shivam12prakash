@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Node.js, React.js, MERN Stack, AWS Core Services**
 
-- 📫 How to reach me **shivam12prakash@gmail.com**
+- 📫 How to reach me **shivamprakash12dev@gmail.com**
 
 - ⚡ Fun fact **I love upskilling.**
 

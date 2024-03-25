@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **Ecommerce MERN App with Microservices architecture**
 
 - 🌱 I’m currently learning **GraphQL, Advanced AWS Services, Kubernetes**
-- 
+  
 - 👯 I’m looking to collaborate on **Full Stack Projects.**
 
 - 💬 Ask me about **Node.js, React.js, MERN Stack, AWS Core Services**

@@ -1,18 +1,20 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*uDWHQDtR-WeTPMFFO6p3_w.jpeg)
-<h1 align="center">Hi 👋, I'm Shivam Prakash</h1>
-<h3 align="center">A passionate FullStack MERN developer from India</h3>
+<h1 align="center">Happy to see you! 👋, I'm Shivam Prakash</h1>
+<h3 align="center">A passionate and competent Full Stack developer from India</h3>
 <img align="right" alt="Coding Image" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2022/11/giphyFSD.gif">
 
 
-- 🔭 I’m currently working on **Ecommerce MERN Application with Microservices architecture**
+- 🔭 I’m currently working on **Ecommerce MERN App with Microservices architecture**
 
-- 🌱 I’m currently learning **Advanced AWS Services, GraphQL, Kubernetes**
+- 🌱 I’m currently learning **GraphQL, Advanced AWS Services, Kubernetes**
+- 
+- 👯 I’m looking to collaborate on **Full Stack Projects.**
 
 - 💬 Ask me about **Node.js, React.js, MERN Stack, AWS Core Services**
 
 - 📫 How to reach me **shivam12prakash@gmail.com**
 
-- ⚡ Fun fact **I love upskilling**
+- ⚡ Fun fact **I love upskilling.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
